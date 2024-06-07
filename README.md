@@ -1,4 +1,5 @@
 User profile Registration Task - Database_Name: profilesdb ; Database used : Local MongoDB
+Installed pkgs: express mongoose body-parser bcryptjs jsonwebtoken
 Endpoints are 
 
 1. .../api/auth/register - POST method
